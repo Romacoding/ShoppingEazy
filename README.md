@@ -1,1 +1,2 @@
-#E-commerce project using a ReactJS library
+# ShoppingEazy
+## E-commerce project using a ReactJS library
